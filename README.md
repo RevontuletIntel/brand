@@ -15,6 +15,20 @@ Revontulet  is Finnish for “northern lights” and translates to “fox fire.�
 
 The name also allows us to reflect on the qualities we embody: The aurora ties together the northern and southern hemispheres, bringing light to our darkest days and expanding across the horizon. Arctic foxes are clever, curious, and playful. While our work spans the globe, the Nordic name allows us to maintain a sense of our roots, from which our global reach and impact grow.
 
+# Company Info
+
+Revontulet is a mission-driven company combating terrorism and violent extremism through open-source intelligence and the analysis of complex data. 
+
+* We offer clients the clarity they need to mitigate risks, prevent harm, and navigate the legislative landscape.
+* We provide insights, analysis, and data to clients across industries and sectors. 
+* We have supported law-enforcement action and policy development and contributed to the dismantling of terrorist and extremist networks and interventions foiling planned terrorist attacks. 
+* We work closely with our clients to preempt and prevent the abuse of their infrastructure, technologies, and services by extremist and terrorist actors, ensuring compliance with law, policy, and ethical frameworks. 
+* We monitor and address social harms and extremism-related risks across the spectrum, from toxic speech through polarization and conspiracy theories to violent extremist groups and terrorist activities.
+
+Revontulet’s team comprises social scientists, intelligence analysts, data scientists, developers, and researchers. Rooted in strong ethical frameworks, this multidisciplinary team is built from the ground up to develop and deploy data-driven solutions, cutting-edge technology, and research to offer guidance and support to clients grappling with complex challenges.
+
+Together, we can build a safer world for all.
+
 # The Logo
 
 ## Using the Logo
@@ -30,8 +44,10 @@ The official company logo depicts the outline of the head of an Arctic fox. The 
 ## Files
 
 # Brand Colors
-![](https://github.com/RevontuletIntel/handbook/blob/main/images/brand/color-scheme.png?raw=true)
+The official brand colors of Revontulet are as follows:
+![](https://github.com/RevontuletIntel/brand/blob/main/colors.png?raw=true)
 
+## Color Specification
 | Name | Dark Blue | Bright Orange | Light Sea Green | Dark Cyan | White |
 |------|-----------|---------------|-----------------|-----------|--------------|
 |Hex | #182247 | #ff611d | #24baa9 | #269e92 | #FFFFFF | 
