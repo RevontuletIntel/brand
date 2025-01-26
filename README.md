@@ -1,4 +1,6 @@
 # Brand Bible
+>[!CAUTION]
+>All use of the brand must be authorised and approved by Revontulet AS. [Contact us](https://revontulet.co/contact) to seek approval.
 
 # Name
 
