@@ -36,8 +36,8 @@ Together, we can build a safer world for all.
 When using the Revontulet logo, please make sure it's used consistently and is readable against the background on which it is placed. 
 
 >[!TIP]
->To ensure readability, use the contrast checker here: https://color.adobe.com/create/color-contrast-analyzer
->You can read more about contrast rations and accessibility here: https://adobe.design/stories/leading-design/inclusive-palettes-with-adobe-color
+>To ensure readability, use the contrast checker [here](https://color.adobe.com/create/color-contrast-analyzer)
+>You can read more about contrast rations and accessibility [here](https://adobe.design/stories/leading-design/inclusive-palettes-with-adobe-color).
 
 
 Do not make any unauthorized changes to the colors or layout of the logo.
