@@ -36,13 +36,12 @@ Together, we can build a safer world for all.
 >[!IMPORTANT]
 >* Do not make any unauthorized changes to the colors or layout of the logo.
 >* Where possible, always use the [vector versions of logo files](assets/logo/vector).
+>* When using rasterized versions use the [.png files with transparency](assets/logo/png) where possible and appropriate.
 
 When using the Revontulet logo, please make sure it's used consistently and is readable against the background on which it is placed. 
 
-To ensure readability, use the contrast checker [here](https://color.adobe.com/create/color-contrast-analyzer).<br>
-You can read more about contrast rations and accessibility [here](https://adobe.design/stories/leading-design/inclusive-palettes-with-adobe-color).
-
-
+* To ensure readability, use the contrast checker [here](https://color.adobe.com/create/color-contrast-analyzer).
+* You can read more about contrast rations and accessibility [here](https://adobe.design/stories/leading-design/inclusive-palettes-with-adobe-color).
 
 ### On Light Backgrounds
 
