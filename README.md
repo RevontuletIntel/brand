@@ -18,7 +18,7 @@ Revontulet  is Finnish for “northern lights” and translates to “fox fire.�
 The name also allows us to reflect on the qualities we embody: The aurora ties together the northern and southern hemispheres, bringing light to our darkest days and expanding across the horizon. Arctic foxes are clever, curious, and playful. While our work spans the globe, the Nordic name allows us to maintain a sense of our roots, from which our global reach and impact grow.
 
 # Brand Bible and Assets
-The official Brand Bible and brand assets of Revontulet are available here: https://github.com/RevontuletIntel/brand
+The official Brand Bible and public-facing brand assets of Revontulet are available here: https://github.com/RevontuletIntel/brand
 
 # About Revontulet
 
