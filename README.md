@@ -74,17 +74,18 @@ In our logo, we use the English font of [Tiro Gurmukhi](https://fonts.google.com
 
 For all other written products, we use the font [Poppins](https://fonts.google.com/specimen/Poppins).
 
-| Style | Weight | Weight class | Style | Size | Spacing | Color | Notes | 
-| ------|--------|--------------|------ |------|---------|-------|-------|
-| Normal Text | 200 | Extra Light | Normal | 11 | 1.15 | Space before paragraph, prevent single lines|
-| Title | | Light | Normal |  26 | 1.15 | Space before paragraph, space after paragraph, prevent single lines |
-| Subtitle | | Light | Normal | | | |
-| Header 1 | 200 | Extra Light | Normal | 20 | | |
-| Header 2 | 200 | Extra Light | Normal | 16 | | |
-| Header 3 |  | Light | Normal | 14 | | |
-| Block quote | Light | Italic | 10 | 1.15 | | |
-| Footnote | | | | | |
-| Image Text | | | | | |
+| Style | Weight | Weight class | Style | Size | Alignment |Spacing | Color | Line & Paragraph Spacing | 
+| ------|--------|--------------|------ |------|-----------|--------|-------|-------|
+| Normal Text | 200 | Extra Light | Regular | 11 | Left | 1.15 | Black | Space before paragraph, prevent single lines |
+| Title | 300 | Light | Regular |  26 | Center | 1.15 | Black | Space before paragraph, space after paragraph, prevent single lines |
+| Subtitle | 300 | Light | Regular | 15 | Center || 1.15 | | Space before paragraph, space after paragraph,  prevent single lines |
+| Header 1 | 200 | Extra Light | Regular | 20 | Left | | Space before paragraph, space after paragraph,  prevent single lines, keep with next, keep lines together |
+| Header 2 | 200 | Extra Light | Regular | 16 | Left | | Space before paragraph, space after paragraph,  prevent single lines, keep with next, keep lines together |
+| Header 3 | 300 | Light | Regular | 14 | Left | | Space before paragraph, space after paragraph,  prevent single lines, keep with next, keep lines together |
+| Block quote | 300 | Light | Italic | 10 | Left - indent 1 step | 1.15 | | Space before paragraph, space after paragraph,  prevent single lines, keep with next, keep lines together |
+| Footnote | 300 | Light | Regular | 10 | Left | Single | Black | Space before paragraph, space after paragraph,  prevent single lines, keep with next, keep lines together |
+| Image Text | 300 | Light | Italic | 10 | Align with image | Space before paragraph, space after paragraph,  prevent single lines, keep with next, keep lines together |
+| URLs | NA | NA | Underline | NA | inline | NA | Blue | |
 
 
 # Emoji and Favicon
