@@ -1,9 +1,9 @@
+![](https://github.com/RevontuletIntel/brand/blob/main/assets/banner/Banner.png?raw=true)
+
 # Brand Bible
 >[!CAUTION]
 >All use of the Revontulet brand must be authorized and approved by Revontulet AS. [Contact us](https://revontulet.co/contact) to seek approval.
 
-![](https://github.com/RevontuletIntel/brand/blob/main/assets/banner/Banner.png?raw=true)
->
 # Name
 The official name of the company, as incorporated in the Kingdom of Norway, is Revontulet AS.
 
