@@ -47,14 +47,12 @@ The Revontulet logo exists in several formats and is designed for different use 
 * To ensure readability, use the contrast checker [here](https://color.adobe.com/create/color-contrast-analyzer).
 * You can read more about contrast rations and accessibility [here](https://adobe.design/stories/leading-design/inclusive-palettes-with-adobe-color).
 
-Please consider the format in which the logo will be viewed when using it.
-
-For written reports and products, please refer to the [template here](https://github.com/RevontuletIntel/brand/blob/main/templates/Template%20for%20Reports.pdf) for guidance on layout and formatting. 
-
-## Guiding principles
+**Guiding principles**
+* Please take into account the format in which the logo will be viewed when using it.
+* For use in written reports and products, please refer to the [example in the template here](https://github.com/RevontuletIntel/brand/blob/main/templates/Template%20for%20Reports.pdf) for guidance on layout and formatting. 
 * For use in headers of reports and documents, please use a version of the logo with a transparent background without the inclusion of the Arctic fox. 
-* For use on the front page of reports with a white background and without the use of [the banner](https://github.com/RevontuletIntel/brand/blob/main/assets/banner/Banner.png?raw=true) use a square version of the logo on a transparent background
-* For use on front
+* For use on the front page of reports with a white background and without the use of [the banner](https://github.com/RevontuletIntel/brand/blob/main/assets/banner/Banner.png?raw=true), use a square version of the logo on a transparent background.
+* The logo in full, or the outline of the Arctic fox alone, may be overlayed on other graphics to indicate their relationship to Revontulet. In such cases, ensure that readability of the logo is maintained. 
 
 ## Explaining the Logo
 The logo of Revontulet depicts the outline of the head of an Arctic fox facing the viewer. The visual is combined with the text "Revontulet" and the sub-line "Intelligence." 
