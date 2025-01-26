@@ -59,14 +59,19 @@ The logo of Revontulet depicts the outline of the head of an Arctic fox facing t
 
 # Brand Colors
 The official brand colors of Revontulet are as follows:
-![](https://github.com/RevontuletIntel/brand/blob/main/colors.png?raw=true)
+![](https://github.com/RevontuletIntel/brand/blob/main/colors/Revontulet%20Color%20Scheme.png?raw=true)
 
 ## Color Specification
-| Name | Dark Blue | Bright Orange | Light Sea Green | Dark Cyan | White |
-|------|-----------|---------------|-----------------|-----------|--------------|
-|Hex | #182247 | #ff611d | #24baa9 | #269e92 | #FFFFFF | 
-|RGB|R:24, G:34, B:71 |  R:255, G:97, B:29 | R:36, G:186, B:169  | R:38, G:158, B:146 | R255 G255 B255 |
-|CMYK|66, 52, 0, 72 |  0, 62, 89, 0 | C:0.81, M:0, Y:0.09, K:0.27 |  C:0.76, M:0, Y:0.08, K:0.38. | C0 M0 Y0 K0 | 
+| Name | Dark Blue | Bright Orange | Light Blue |  Blue | Teal  | White |
+|------|-----------|---------------|------------|-------------|-------------|-------|
+|Use   | Background | Brand Name   | Fox Head   | Gradient L  | Gradient R  | Background |
+| Hex  | #152245    | #f16632      | #93d5de    |  #0f81ba    | #24b9a8     | #FFFFFF | 
+| RGB | 20, 34, 69  | 240, 103, 50 | 147, 213, 222 | 15, 129, 186 | 36, 185, 168 | 255, 255, 255 |
+| CMYK | 99%, 89%, 43%, 46% | 0%, 74%, 90%, 0% | 40%, 0%, 13%, 0% | 84%, 41%, 7%, 0% | 73%, 1%, 43%, 0% | 0%, 0%, 0%, 0% |
+
+All colors in Adobe Illustrator 2025 (21.1 Windows) CMYK.
+Illustrator file with [Revontulet Color Scheme can be found here](https://github.com/RevontuletIntel/brand/blob/main/colors/Revontulet%20Color%20Scheme.ai)
+
 
 # Fonts and Typefaces
 
