@@ -13,9 +13,9 @@ In daily use, the company may be referred to simply as Revontulet.
 >Please note that the word "Intelligence," despite being featured in the logo and online accounts, is not a part of the company's official name. The inclusion of "Intelligence" as a sub-title is intended to clarify the activities and offerings of the company and to distinguish it from other uses of the word Revontulet.
  
 ## The Story of the Name
-Revontulet  is Finnish for “northern lights” and translates to “fox fire.” In Finnish folklore, the aurora stems from the sparks of fur from an arctic fox running across the night sky.
+Revontulet  is Finnish for “northern lights” and translates to “Fox fire.” In Finnish folklore, the aurora stems from the sparks of fur from an Arctic Fox running across the night sky.
 
-The name also allows us to reflect on the qualities we embody: The aurora ties together the northern and southern hemispheres, bringing light to our darkest days and expanding across the horizon. Arctic foxes are clever, curious, and playful. While our work spans the globe, the Nordic name allows us to maintain a sense of our roots, from which our global reach and impact grow.
+The name also allows us to reflect on the qualities we embody: The aurora ties together the northern and southern hemispheres, bringing light to our darkest days and expanding across the horizon. Arctic Foxes are clever, curious, and playful. While our work spans the globe, the Nordic name allows us to maintain a sense of our roots, from which our global reach and impact grow.
 
 # Brand Bible and Assets
 The official Brand Bible and public-facing brand assets of Revontulet are available here: https://github.com/RevontuletIntel/brand
@@ -50,12 +50,12 @@ The Revontulet logo exists in several formats and is designed for different use 
 **Guiding principles**
 * Please take into account the format in which the logo will be viewed when using it.
 * For use in written reports and products, please refer to the [example in the template here](https://github.com/RevontuletIntel/brand/blob/main/templates/Template%20for%20Reports.pdf) for guidance on layout and formatting. 
-* For use in headers of reports and documents, please use a version of the logo with a transparent background without the inclusion of the Arctic fox. 
+* For use in headers of reports and documents, please use a version of the logo with a transparent background without the inclusion of the Arctic Fox. 
 * For use on the front page of reports with a white background and without the use of [the banner](https://github.com/RevontuletIntel/brand/blob/main/assets/banner/Banner.png?raw=true), use a square version of the logo on a transparent background.
-* The logo in full, or the outline of the Arctic fox alone, may be overlayed on other graphics to indicate their relationship to Revontulet. In such cases, ensure that readability of the logo is maintained. 
+* The logo in full, or the outline of the Arctic Fox alone, may be overlayed on other graphics to indicate their relationship to Revontulet. In such cases, ensure that readability of the logo is maintained. 
 
 ## Logo Description
-The logo of Revontulet depicts the outline of the head of an Arctic fox facing the viewer. The visual is combined with the text "Revontulet" and the sub-line "Intelligence," which is surrounded by lines with a gradient going from Blue to Teal as described in the Brand Colors. These lines represent the northern lights. The aurora borealis, the flames of a bonfire, and dark Nordic winter nights inspire the color scheme in the logo.
+The logo of Revontulet depicts the outline of the head of an Arctic Fox facing the viewer. The visual is combined with the text "Revontulet" and the sub-line "Intelligence," which is surrounded by lines with a gradient going from Blue to Teal as described in the Brand Colors. These lines represent the northern lights. The aurora borealis, the flames of a bonfire, and dark Nordic winter nights inspire the color scheme in the logo.
 
 # Brand Colors
 The official brand colors of Revontulet are as follows:
@@ -103,6 +103,12 @@ For content written for screens, URLs can be embedded directly [in text](https:/
 
 The exception to these rules is the Revontulet website, and slideshows, where URLs may be Bright Orange to fit with other design-choices.
 
+# Arctic Fox Outline
+![](https://github.com/user-attachments/assets/ebf2d6e2-8be9-4e65-a57a-43a061111707)
+
+An outline of the Arctic Fox may be used as an indication that assets originate at Revontulet. The outline may be overlayed graphics, slides etc. 
+Please always make sure the visual is maintained readable.
+
 # Emoji and Favicon
-The official emoji and favicon of Revontulet is the colored-in version of the Arctic fox outlined in the logo. This should be used as an icon on official websites and may be used in informal communication.
+The official emoji and favicon of Revontulet is the colored-in version of the Arctic Fox outlined in the logo. This should be used as an icon on official websites and may be used in informal communication.
 ![](https://github.com/RevontuletIntel/brand/blob/main/assets/emoji/emoji.png?raw=true)
