@@ -70,6 +70,23 @@ The official brand colors of Revontulet are as follows:
 
 # Fonts and Typefaces
 
+In our logo, we use the English font of [Tiro Gurmukhi](https://fonts.google.com/specimen/Tiro+Gurmukhi)
+
+For all other written products, we use the font [Poppins](https://fonts.google.com/specimen/Poppins).
+
+| Style | Weight | Weight class | Style | Size | Spacing | Color | Notes | 
+| ------|--------|--------------|------ |------|---------|-------|-------|
+| Normal Text | 200 | Extra Light | Normal | 11 | 1.15 | Space before paragraph, prevent single lines|
+| Title | | Light | Normal |  26 | 1.15 | Space before paragraph, space after paragraph, prevent single lines |
+| Subtitle | | Light | Normal | | | |
+| Header 1 | 200 | Extra Light | Normal | 20 | | |
+| Header 2 | 200 | Extra Light | Normal | 16 | | |
+| Header 3 |  | Light | Normal | 14 | | |
+| Block quote | Light | Italic | 10 | 1.15 | | |
+| Footnote | | | | | |
+| Image Text | | | | | |
+
+
 # Emoji and Favicon
 The official emoji and favicon of Revontulet is the colored-in version of the Arctic fox outlined in the logo. This should be used as an icon on official websites and may be used in informal communication.
 ![](https://github.com/RevontuletIntel/brand/blob/main/assets/emoji/emoji.png?raw=true)
