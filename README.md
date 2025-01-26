@@ -1,9 +1,12 @@
 # Brand Bible
 >[!CAUTION]
->All use of the brand must be authorised and approved by Revontulet AS. [Contact us](https://revontulet.co/contact) to seek approval.
+>All use of the brand must be authorized and approved by Revontulet AS. [Contact us](https://revontulet.co/contact) to seek approval.
 
 # Name
+The formal name of the company as incorporated in the Kingdom of Norway, is Revontulet AS.
 
+In casual use, the company may be referred to simply as Revontulet.
+ 
 ## The Story of the name
 Revontulet  is Finnish for “northern lights” and translates to “fox fire.” In Finnish folklore, the aurora stems from the sparks of fur from an arctic fox running across the night sky.
 
