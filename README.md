@@ -91,9 +91,17 @@ For all other written products, we use the font [Poppins](https://fonts.google.c
 | Block quote | 300 | Light | Italic | 10 | Left - indent 1 step | 1.15 | Black | Space before paragraph, space after paragraph,  prevent single lines, keep with next, keep lines together |
 | Footnote | 300 | Light | Regular | 10 | Left | Single | Black | Space before paragraph, space after paragraph,  prevent single lines, keep with next, keep lines together |
 | Image Text | 300 | Light | Italic | 10 | Align with image | Single | Black | Space before paragraph, space after paragraph,  prevent single lines, keep with next, keep lines together |
-| URLs | NA | NA | Underline | NA | inline | NA | Blue | NA |
+| URLs** | NA | NA | Underline | NA | inline | NA | Blue | NA |
 
 *on white background, for print & PDFs
+** See URLs section
+
+## URLs
+For written products you should follow the style of overall text a URL is part of, but make sure the URL is underlined and blue to indicate that it is an active link. 
+
+For content written for screens, URLs can be embedded directly [in text](https://www.w3schools.com/html/html_links.asp). The exception to this is text intended for print and text in footnotes, references, and bibliographies, where links should be written in cleartext but be active, blue, and underlined [https://www.w3schools.com/html/html_links.asp](https://www.w3schools.com/html/html_links.asp).
+
+The exception to these rules is the Revontulet website, and slideshows, where URLs may be Bright Orange to fit with other design-choices.
 
 # Emoji and Favicon
 The official emoji and favicon of Revontulet is the colored-in version of the Arctic fox outlined in the logo. This should be used as an icon on official websites and may be used in informal communication.
