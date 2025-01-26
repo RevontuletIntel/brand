@@ -42,16 +42,14 @@ When using the Revontulet logo, please make sure it's used consistently and is r
 
 Do not make any unauthorized changes to the colors or layout of the logo.
 
-Where possible, always use the vector versions of logo files.
+Where possible, always use the [vector versions of logo files](assets/logo/vector).
 
 ### On Light Backgrounds
 
 ### On Dark Backgrounds
 
 ## Explaining the Logo
-The official company logo depicts the outline of the head of an Arctic fox. The visual is combined with the text Revontulet and the sub-line "Intelligence." 
-
-
+The logo of Revontulet depicts the outline of the head of an Arctic fox facing the viewer. The visual is combined with the text Revontulet and the sub-line "Intelligence." 
 
 # Brand Colors
 The official brand colors of Revontulet are as follows:
