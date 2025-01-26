@@ -2,6 +2,8 @@
 >[!CAUTION]
 >All use of the Revontulet brand must be authorized and approved by Revontulet AS. [Contact us](https://revontulet.co/contact) to seek approval.
 
+![](https://github.com/RevontuletIntel/brand/blob/main/assets/banner/Banner.png?raw=true)
+>
 # Name
 The official name of the company, as incorporated in the Kingdom of Norway, is Revontulet AS.
 
@@ -18,7 +20,7 @@ The name also allows us to reflect on the qualities we embody: The aurora ties t
 # Brand Bible and Assets
 The official Brand Bible and brand assets of Revontulet are available here: https://github.com/RevontuletIntel/brand
 
-# Company Info
+# About Revontulet
 
 Revontulet is a mission-driven company combating terrorism and violent extremism through open-source intelligence and the analysis of complex data. 
 
@@ -36,19 +38,24 @@ Together, we can build a safer world for all.
 >[!IMPORTANT]
 >* Do not make any unauthorized changes to the colors or layout of the logo.
 >* Where possible, always use the [vector versions of logo files](assets/logo/vector).
->* When using rasterized versions use the [.png files with transparency](assets/logo/png) where possible and appropriate.
+>* When using rasterized versions, use the [.png files with transparency](assets/logo/png) where possible and appropriate.
 
-When using the Revontulet logo, please make sure it's used consistently and is readable against the background on which it is placed. 
+The Revontulet logo exists in several formats and is designed for different use cases and backgrounds. As a rule, when using the Revontulet logo, please ensure it's used consistently and is readable against the background on which it is placed. 
 
 * To ensure readability, use the contrast checker [here](https://color.adobe.com/create/color-contrast-analyzer).
 * You can read more about contrast rations and accessibility [here](https://adobe.design/stories/leading-design/inclusive-palettes-with-adobe-color).
 
-### On Light Backgrounds
+Please consider the format in which the logo will be viewed when using it.
 
-### On Dark Backgrounds
+For written reports and products, please refer to the [template here](https://github.com/RevontuletIntel/brand/blob/main/templates/Template%20for%20Reports.pdf) for guidance on layout and formatting. 
+
+## Guiding principles
+* For use in headers of reports and documents, please use a version of the logo with a transparent background without the inclusion of the Arctic fox. 
+* For use on the front page of reports with a white background and without the use of [the banner](https://github.com/RevontuletIntel/brand/blob/main/assets/banner/Banner.png?raw=true) use a square version of the logo on a transparent background
+* For use on front
 
 ## Explaining the Logo
-The logo of Revontulet depicts the outline of the head of an Arctic fox facing the viewer. The visual is combined with the text Revontulet and the sub-line "Intelligence." 
+The logo of Revontulet depicts the outline of the head of an Arctic fox facing the viewer. The visual is combined with the text "Revontulet" and the sub-line "Intelligence." 
 
 # Brand Colors
 The official brand colors of Revontulet are as follows:
@@ -60,6 +67,8 @@ The official brand colors of Revontulet are as follows:
 |Hex | #182247 | #ff611d | #24baa9 | #269e92 | #FFFFFF | 
 |RGB|R:24, G:34, B:71 |  R:255, G:97, B:29 | R:36, G:186, B:169  | R:38, G:158, B:146 | R255 G255 B255 |
 |CMYK|66, 52, 0, 72 |  0, 62, 89, 0 | C:0.81, M:0, Y:0.09, K:0.27 |  C:0.76, M:0, Y:0.08, K:0.38. | C0 M0 Y0 K0 | 
+
+# Fonts and Typefaces
 
 # Emoji and Favicon
 The official emoji and favicon of Revontulet is the colored-in version of the Arctic fox outlined in the logo. This should be used as an icon on official websites and may be used in informal communication.
