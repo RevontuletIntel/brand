@@ -54,8 +54,8 @@ The Revontulet logo exists in several formats and is designed for different use 
 * For use on the front page of reports with a white background and without the use of [the banner](https://github.com/RevontuletIntel/brand/blob/main/assets/banner/Banner.png?raw=true), use a square version of the logo on a transparent background.
 * The logo in full, or the outline of the Arctic fox alone, may be overlayed on other graphics to indicate their relationship to Revontulet. In such cases, ensure that readability of the logo is maintained. 
 
-## Explaining the Logo
-The logo of Revontulet depicts the outline of the head of an Arctic fox facing the viewer. The visual is combined with the text "Revontulet" and the sub-line "Intelligence." 
+## Logo Description
+The logo of Revontulet depicts the outline of the head of an Arctic fox facing the viewer. The visual is combined with the text "Revontulet" and the sub-line "Intelligence," which is surrounded by lines with a gradient going from Blue to Teal as described in the Brand Colors. These lines represent the northern lights. The aurora borealis, the flames of a bonfire, and dark Nordic winter nights inspire the color scheme in the logo.
 
 # Brand Colors
 The official brand colors of Revontulet are as follows:
@@ -71,6 +71,7 @@ The official brand colors of Revontulet are as follows:
 
 All colors in Adobe Illustrator 2025 (21.1 Windows) CMYK.
 Illustrator file with [Revontulet Color Scheme can be found here](https://github.com/RevontuletIntel/brand/blob/main/colors/Revontulet%20Color%20Scheme.ai)
+
 
 
 # Fonts and Typefaces
