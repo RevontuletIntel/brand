@@ -34,8 +34,8 @@ Together, we can build a safer world for all.
 
 # The Logo
 >[!IMPORTANT]
->Do not make any unauthorized changes to the colors or layout of the logo.
->Where possible, always use the [vector versions of logo files](assets/logo/vector).
+>* Do not make any unauthorized changes to the colors or layout of the logo.
+>* Where possible, always use the [vector versions of logo files](assets/logo/vector).
 
 When using the Revontulet logo, please make sure it's used consistently and is readable against the background on which it is placed. 
 
