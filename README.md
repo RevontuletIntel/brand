@@ -40,6 +40,8 @@ Together, we can build a safer world for all.
 >* Where possible, always use the [vector versions of logo files](assets/logo/vector).
 >* When using rasterized versions, use the [.png files with transparency](assets/logo/png) where possible and appropriate.
 
+![](https://github.com/RevontuletIntel/brand/blob/main/assets/logo/png/main-square-1x.png?raw=true)
+
 The Revontulet logo exists in several formats and is designed for different use cases and backgrounds. As a rule, when using the Revontulet logo, please ensure it's used consistently and is readable against the background on which it is placed. 
 
 * To ensure readability, use the contrast checker [here](https://color.adobe.com/create/color-contrast-analyzer).
