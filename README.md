@@ -8,7 +8,7 @@ The official name of the company, as incorporated in the Kingdom of Norway, is R
 In daily use, the company may be referred to simply as Revontulet.
 
 >[!IMPORTANT]
->Please note that the word "Intelligence," despite being featured in the logo, is not a part of the company's official name. The inclusion of "Intelligence" as a sub-title is simply intended to clarify the activities and offerings of the company.
+>Please note that the word "Intelligence," despite being featured in the logo and online accounts, is not a part of the company's official name. The inclusion of "Intelligence" as a sub-title is intended to clarify the activities and offerings of the company and to distinguish it from other uses of the word Revontulet.
  
 ## The Story of the Name
 Revontulet  is Finnish for “northern lights” and translates to “fox fire.” In Finnish folklore, the aurora stems from the sparks of fur from an arctic fox running across the night sky.
@@ -33,16 +33,16 @@ Revontulet’s team comprises social scientists, intelligence analysts, data sci
 Together, we can build a safer world for all.
 
 # The Logo
+>[!IMPORTANT]
+>Do not make any unauthorized changes to the colors or layout of the logo.
+>Where possible, always use the [vector versions of logo files](assets/logo/vector).
+
 When using the Revontulet logo, please make sure it's used consistently and is readable against the background on which it is placed. 
 
->[!TIP]
->To ensure readability, use the contrast checker [here](https://color.adobe.com/create/color-contrast-analyzer)
->You can read more about contrast rations and accessibility [here](https://adobe.design/stories/leading-design/inclusive-palettes-with-adobe-color).
+To ensure readability, use the contrast checker [here](https://color.adobe.com/create/color-contrast-analyzer)
+You can read more about contrast rations and accessibility [here](https://adobe.design/stories/leading-design/inclusive-palettes-with-adobe-color).
 
 
-Do not make any unauthorized changes to the colors or layout of the logo.
-
-Where possible, always use the [vector versions of logo files](assets/logo/vector).
 
 ### On Light Backgrounds
 
